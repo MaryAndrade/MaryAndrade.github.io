@@ -1,0 +1,25 @@
+body{
+    background-color: #804d00;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#Pizzas{
+    border: 10px solid black;
+}
+
+.imagem{
+    border: 10px transparent pink;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+h1{
+    color: rgb(255, 0, 0)
+}
+
+p{
+    color:rgb(251, 255, 0)
+}
